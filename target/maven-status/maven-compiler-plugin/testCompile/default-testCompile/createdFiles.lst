@@ -1,0 +1,4 @@
+com\Tests\FirstTest.class
+com\hrm\qa\testcases\LoginPageTest.class
+com\hrm\qa\testcases\DashBoardPageTest.class
+com\Tests\OrangeHRM.class
